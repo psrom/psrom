@@ -2,4 +2,4 @@
 
 :crescent_moon: *learning python*
 
-:heartpulse: big data analysis
+:heartpulse: *big data analysis*
