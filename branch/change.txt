@@ -1,1 +1,2 @@
 나는 마스터에서 change를 바꿨어!
+나는 new에 있는 change
