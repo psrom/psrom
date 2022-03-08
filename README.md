@@ -1,5 +1,5 @@
 # Hi, I'm Rebecca
 
-:crescent_moon: *learning python*
+:crescent_moon: python, machine learning, deep learning
 
-:heartpulse: *big data analysis*
+:heartpulse: big data analysis
