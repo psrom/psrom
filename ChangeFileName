@@ -1,0 +1,31 @@
+# 파일명 일괄 변경 프로그램
+import os
+
+root_directory = "C:\\바탕 화면\\예시\\"
+exhibition_name = input("전시원 알파벳 입력: ")
+
+# 고유번호 목록
+tree_lst = []
+tree_folders = os.listdir(root_directory)
+for tree_name in tree_folders:
+    tree_lst.append(tree_name)
+print(tree_lst)
+
+#===================================================================
+for i in range(1, len(tree_lst)+1):
+    tree = tree_lst[i-1]
+    tree_directory = root_directory + tree
+    files = os.listdir(tree_directory)
+
+    for file in files:
+        src = os.path.join(tree_directory, file)
+        num = str(i).zfill(2)
+
+        dst = "sjna"+ exhibition_name + tree + num + ".jpg"
+        dst = os.path.join(tree_directory, dst)
+
+        os.rename(src, dst)
+
+        i += 1
+
+print("END")
