@@ -1,3 +1,3 @@
 # Hi, I'm Rebecca
 
-:crescent_moon: python, machine learning, deep learning
+:crescent_moon: python, Java, machine learning, deep learning
