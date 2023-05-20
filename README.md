@@ -3,6 +3,6 @@
 
 :crescent_moon: __Language:__ Python, Java, JS, HTML/CSS, SQL
 
-🌕 __Server__: Django, MySQL
+🌕 __Server__: Django, Spring, MySQL
 
 
