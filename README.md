@@ -1,5 +1,5 @@
 # Hi, I'm Becky
-📂 __Backend Developer__
+📂 __Developer__
 
 ✈️ __Language:__ Python, Java, JS
 
