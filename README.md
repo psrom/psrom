@@ -3,6 +3,6 @@
 
 ✈️ __Language:__ Python, Java, JS
 
-☁️ __Server__: Django, Spring, MySQL
+☁️ __Server__: Django, Node.js, MySQL
 
 
